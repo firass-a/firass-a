@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **flutter**
 
-- 📫 How to reach me **firassechorfa@gmail.com**
+- 📫 How to reach me **iamfirasse123@gmail.com**
 
 - ⚡ Fun fact **boop beep**
 
