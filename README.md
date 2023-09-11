@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **java script**
 
-- 💬 Ask me about **flutter**
+- 💬 Ask me about **Android development**
 
 - 📫 How to reach me **iamfirasse123@gmail.com**
 
