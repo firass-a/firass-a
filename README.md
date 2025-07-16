@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Cherfa Firas
 
-🎓 CS student | 📱 Flutter & Full Stack Developer | ☁️ Exploring Cloud Technology
+🎓 CS student | 📱 Flutter & Full Stack Developer | ☁️ Exploring Cloud Technologies
 
 ---
 
@@ -11,18 +11,24 @@
   - 🛒 **Furniture e-commerce app** with MVVM & SQLite
   - 📝 **Inventory management system** with Python (MVC, design patterns)
 - 🌱 Learning: Cloud Security, CI/CD, advanced SQL Server
-- 💬 Ask me about Flutter, Next.js, MVC, design patterns, or how to structure your app architecture!
+- 💬 Ask me about Flutter, MVC, design patterns, or how to structure your app architecture!
 - 📚 Always expanding my skills & looking for exciting projects.
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Frontend:** Flutter, React, Next.js
-- **Backend:** Python (FastAPI), Node.js , java
-- **Database:** SQLite, SQL Server , Postgres
-- **Architecture:** MVC, MVVM
-- **Other:** Git, Docker (learning), REST APIs
+<div align="center">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" height="50" alt="Dart" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
+</div>
 
 ---
 
@@ -32,15 +38,15 @@
 |----------------------------------|------------------------------------------------|
 | 🚀 **Sonelgaz Field App**         | Mobile app for agents: sync, geolocation, proof of visit |
 | 🛒 **Furniture E-commerce**       | Flutter app with favorites, cart, admin panel |
-| 📦 **Inventory Management**       | Web app |
-| 📝 **Student Budget Tracker**     |Flutter app for Helping students track expenses easily |
+| 📦 **Inventory Management**       | Desktop app with design patterns & reporting |
+| 💰 **Student Budget Tracker**     | Helping students track expenses easily |
 
 ---
 
 ## 🌍 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cherfa-firass/) <!-- replace with your link -->
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/firass-a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cherfa-firass/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iamfirasse123@gmail.com)
 
 ---
