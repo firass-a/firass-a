@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Cherfa Firas
 
-🎓 CS student | 📱 Flutter & Full Stack Developer | ☁️ Exploring Cloud Technologies
+🎓 CS student | 📱 Flutter Developer | ☁️ Exploring Cloud Technologies
 
 ---
 
