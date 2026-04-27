@@ -6,10 +6,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building:
-  - 📱 **Sonelgaz field agent app** using Flutter & Riverpod
-  - 🛒 **Furniture e-commerce app** with MVVM & SQLite
-  - 📝 **Inventory management system** with Python (MVC, design pattern)
+
 - 🌱 Learning: Cloud Security, CI/CD, advanced SQL Server
 - 💬 Ask me about Flutter, MVC, design patterns, or how to structure your app architecture!
 - 📚 Always expanding my skills & looking for exciting projects.
