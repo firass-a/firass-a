@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 93 44" width="93" height="44" role="img" aria-labelledby="t d">
+<title id="t">Link: email</title>
+<desc id="d">Button linking to email</desc>
+<defs></defs>
+<rect x="0.5" y="0.5" width="92" height="43" rx="10" fill="#0f151d" stroke="#a78bfa" stroke-opacity="0.6"/><circle cx="22" cy="22" r="4" fill="#a78bfa"><animate attributeName="opacity" values="1;0.3;1" dur="2.6s" repeatCount="indefinite"/></circle><text x="38" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="16" fill="#d0d7de">email</text>
+</svg>

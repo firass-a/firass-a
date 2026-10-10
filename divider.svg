@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 760 18" width="760" height="18" role="img" aria-labelledby="t d">
+<title id="t">divider</title>
+<desc id="d">Decorative animated divider line</desc>
+<defs><linearGradient id="dg" x1="0" x2="1"><stop offset="0" stop-color="#2ee6c5" stop-opacity="0"/><stop offset="0.5" stop-color="#2ee6c5"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></linearGradient></defs>
+<rect x="0" y="8.5" width="760" height="1" fill="#1f2a37"/>
+<rect x="0" y="7" width="220" height="4" rx="2" fill="url(#dg)"><animateTransform attributeName="transform" type="translate" values="-220 0;760 0" dur="6s" repeatCount="indefinite"/></rect>
+<rect x="375.0" y="4" width="10" height="10" transform="rotate(45 380.0 9)" fill="#0a0e14" stroke="#2ee6c5"/>
+</svg>

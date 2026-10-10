@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 560 215" width="560" height="215" role="img" aria-labelledby="t d">
+<title id="t">Project: Agri Decision-Support RL Agent</title>
+<desc id="d">RESEARCH · AI — A multi-objective reinforcement-learning agent that supports crop decisions on Gym-DSSAT, plus a web app to run experiments and follow the agent's progress and performance metrics. Technologies: Python, Gymnasium, Pandas, Flask API, Next.js.</desc>
+<defs><clipPath id="cc1"><rect width="560" height="215" rx="10"/></clipPath><linearGradient id="sh1" x1="0" x2="1"><stop offset="0" stop-color="#2ee6c5" stop-opacity="0"/><stop offset="0.5" stop-color="#2ee6c5"/><stop offset="1" stop-color="#2ee6c5" stop-opacity="0"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="559" height="214" rx="10" fill="#0f151d" stroke="#1f2a37"/>
+<g clip-path="url(#cc1)"><rect width="4" height="215" fill="#2ee6c5"/></g>
+<g clip-path="url(#cc1)"><rect x="-200" y="0" width="200" height="2.5" fill="url(#sh1)"><animateTransform attributeName="transform" type="translate" values="0 0;760 0" dur="6s" repeatCount="indefinite"/></rect></g>
+<rect x="24" y="18" width="129" height="22" rx="6" fill="#2ee6c5" fill-opacity="0.12" stroke="#2ee6c5" stroke-opacity="0.45"/>
+<text x="34" y="33.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#2ee6c5" letter-spacing="0.5">RESEARCH · AI</text>
+<text x="538" y="33.5" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#7d8a99">Master's thesis · 2026</text>
+<text x="24" y="72" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="23" font-weight="700" fill="#d0d7de">Agri Decision-Support RL Agent</text>
+<text x="24" y="98" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" fill="#9aa7b6">A multi-objective reinforcement-learning agent that supports crop</text>
+<text x="24" y="119" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" fill="#9aa7b6">decisions on Gym-DSSAT, plus a web app to run experiments</text>
+<text x="24" y="140" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" fill="#9aa7b6">and follow the agent's progress and performance metrics.</text>
+<rect x="24" y="175" width="64" height="24" rx="6" fill="#121a24" stroke="#1f2a37"/><text x="33" y="191.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#2ee6c5">Python</text>
+<rect x="96" y="175" width="86" height="24" rx="6" fill="#121a24" stroke="#1f2a37"/><text x="105" y="191.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#2ee6c5">Gymnasium</text>
+<rect x="190" y="175" width="64" height="24" rx="6" fill="#121a24" stroke="#1f2a37"/><text x="199" y="191.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#2ee6c5">Pandas</text>
+<rect x="262" y="175" width="86" height="24" rx="6" fill="#121a24" stroke="#1f2a37"/><text x="271" y="191.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#2ee6c5">Flask API</text>
+<rect x="356" y="175" width="71" height="24" rx="6" fill="#121a24" stroke="#1f2a37"/><text x="365" y="191.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#2ee6c5">Next.js</text>
+
+</svg>

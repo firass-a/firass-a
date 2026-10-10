@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 760 56" width="760" height="56" role="img" aria-labelledby="t d">
+<title id="t">Section 05: activity</title>
+<desc id="d">Section heading: activity</desc>
+<defs><linearGradient id="hl" x1="0" x2="1"><stop offset="0" stop-color="#2ee6c5" stop-opacity="0.55"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></linearGradient><linearGradient id="hg" x1="0" x2="1"><stop offset="0" stop-color="#2ee6c5" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.9"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></linearGradient></defs>
+<text x="2" y="34" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="20" fill="#2ee6c5">05</text>
+<text x="38" y="34" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="20" fill="#7d8a99">//</text>
+<text x="70" y="36" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#d0d7de">activity</text>
+<rect x="0" y="51" width="760" height="1.5" fill="url(#hl)"/>
+<rect x="0" y="50" width="120" height="3" fill="url(#hg)"><animateTransform attributeName="transform" type="translate" values="-120 0;760 0" dur="5s" repeatCount="indefinite"/></rect>
+</svg>

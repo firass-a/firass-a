@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 300" width="900" height="300" role="img" aria-labelledby="t d">
+<title id="t">Firas Cherfa — Systems and Networks Engineer</title>
+<desc id="d">Animated hero banner: a network of glowing nodes with moving packets, the name Firas Cherfa, and a typing line cycling through what I do.</desc>
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#2ee6c5"/><stop offset="1" stop-color="#a78bfa"/></linearGradient><radialGradient id="gl1" cx="0.12" cy="0.2" r="0.6"><stop offset="0" stop-color="#2ee6c5" stop-opacity="0.20"/><stop offset="1" stop-color="#2ee6c5" stop-opacity="0"/></radialGradient><radialGradient id="gl2" cx="0.88" cy="0.85" r="0.55"><stop offset="0" stop-color="#a78bfa" stop-opacity="0.18"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#16202c" stroke-width="1"/></pattern><linearGradient id="bl" x1="0" x2="1"><stop offset="0" stop-color="#2ee6c5" stop-opacity="0"/><stop offset="0.5" stop-color="#2ee6c5" stop-opacity="0.8"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></linearGradient><clipPath id="c0"><rect x="70" y="238" height="36" width="0"><animate attributeName="width" dur="22.52s" repeatCount="indefinite" keyTimes="0.0000;0.0178;0.1203;0.2225;0.2691;1.0000" values="0;0;604.80;604.80;0;0" /></rect></clipPath>
+<clipPath id="c1"><rect x="70" y="238" height="36" width="0"><animate attributeName="width" dur="22.52s" repeatCount="indefinite" keyTimes="0.0000;0.2846;0.3750;0.4771;0.5182;1.0000" values="0;0;532.80;532.80;0;0" /></rect></clipPath>
+<clipPath id="c2"><rect x="70" y="238" height="36" width="0"><animate attributeName="width" dur="22.52s" repeatCount="indefinite" keyTimes="0.0000;0.5337;0.6168;0.7189;0.7567;1.0000" values="0;0;489.60;489.60;0;0" /></rect></clipPath>
+<clipPath id="c3"><rect x="70" y="238" height="36" width="0"><animate attributeName="width" dur="22.52s" repeatCount="indefinite" keyTimes="0.0000;0.7722;0.8479;0.9500;0.9845;1.0000" values="0;0;446.40;446.40;0;0" /></rect></clipPath>
+</defs>
+<rect width="900" height="300" rx="14" fill="#0a0e14"/>
+<rect width="900" height="300" rx="14" fill="url(#grid)"/>
+<rect width="900" height="300" rx="14" fill="url(#gl1)"/><rect width="900" height="300" rx="14" fill="url(#gl2)"/>
+<rect x="0" y="-4" width="900" height="3" fill="#2ee6c5" opacity="0.10"><animateTransform attributeName="transform" type="translate" values="0 0;0 308" dur="7s" repeatCount="indefinite"/></rect>
+<line x1="650" y1="62" x2="752" y2="38" stroke="#243244" stroke-width="1.5"/>
+<line x1="752" y1="38" x2="850" y2="92" stroke="#243244" stroke-width="1.5"/>
+<line x1="650" y1="62" x2="700" y2="150" stroke="#243244" stroke-width="1.5"/>
+<line x1="752" y1="38" x2="700" y2="150" stroke="#243244" stroke-width="1.5"/>
+<line x1="752" y1="38" x2="806" y2="168" stroke="#243244" stroke-width="1.5"/>
+<line x1="850" y1="92" x2="806" y2="168" stroke="#243244" stroke-width="1.5"/>
+<line x1="700" y1="150" x2="806" y2="168" stroke="#243244" stroke-width="1.5"/>
+<line x1="806" y1="168" x2="862" y2="244" stroke="#243244" stroke-width="1.5"/>
+<line x1="700" y1="150" x2="656" y2="236" stroke="#243244" stroke-width="1.5"/>
+<line x1="656" y1="236" x2="764" y2="258" stroke="#243244" stroke-width="1.5"/>
+<line x1="806" y1="168" x2="764" y2="258" stroke="#243244" stroke-width="1.5"/>
+<line x1="764" y1="258" x2="862" y2="244" stroke="#243244" stroke-width="1.5"/>
+<circle r="3.2" fill="#2ee6c5"><animateMotion dur="2.6s" begin="0s" repeatCount="indefinite" path="M650 62 L752 38"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.6s" begin="0s" repeatCount="indefinite"/></circle>
+<circle r="3.2" fill="#a78bfa"><animateMotion dur="3.1s" begin="0.8s" repeatCount="indefinite" path="M752 38 L806 168"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="3.1s" begin="0.8s" repeatCount="indefinite"/></circle>
+<circle r="3.2" fill="#2ee6c5"><animateMotion dur="2.2s" begin="0.3s" repeatCount="indefinite" path="M700 150 L806 168"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.2s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle r="3.2" fill="#a78bfa"><animateMotion dur="2.8s" begin="1.4s" repeatCount="indefinite" path="M806 168 L862 244"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.8s" begin="1.4s" repeatCount="indefinite"/></circle>
+<circle r="3.2" fill="#2ee6c5"><animateMotion dur="2.4s" begin="0.9s" repeatCount="indefinite" path="M656 236 L764 258"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.4s" begin="0.9s" repeatCount="indefinite"/></circle>
+<circle r="3.2" fill="#2ee6c5"><animateMotion dur="3.0s" begin="0.2s" repeatCount="indefinite" path="M764 258 L862 244"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="3.0s" begin="0.2s" repeatCount="indefinite"/></circle>
+<circle r="3.2" fill="#a78bfa"><animateMotion dur="2.5s" begin="1.7s" repeatCount="indefinite" path="M650 62 L700 150"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.5s" begin="1.7s" repeatCount="indefinite"/></circle>
+<circle r="3.2" fill="#2ee6c5"><animateMotion dur="2.9s" begin="1.1s" repeatCount="indefinite" path="M850 92 L806 168"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.85;1" dur="2.9s" begin="1.1s" repeatCount="indefinite"/></circle>
+<circle cx="650" cy="62" r="5" fill="#0f151d" stroke="#2ee6c5" stroke-width="1.5"><animate attributeName="r" values="5;8;5" dur="3.00s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="1;0.35;1" dur="3.00s" repeatCount="indefinite"/></circle>
+<circle cx="752" cy="38" r="5" fill="#0f151d" stroke="#2ee6c5" stroke-width="1.5"><animate attributeName="r" values="5;8;5" dur="3.37s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="1;0.35;1" dur="3.37s" repeatCount="indefinite"/></circle>
+<circle cx="850" cy="92" r="5" fill="#0f151d" stroke="#2ee6c5" stroke-width="1.5"><animate attributeName="r" values="5;8;5" dur="3.74s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="1;0.35;1" dur="3.74s" repeatCount="indefinite"/></circle>
+<circle cx="700" cy="150" r="5" fill="#0f151d" stroke="#2ee6c5" stroke-width="1.5"><animate attributeName="r" values="5;8;5" dur="4.11s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="1;0.35;1" dur="4.11s" repeatCount="indefinite"/></circle>
+<circle cx="806" cy="168" r="5" fill="#0f151d" stroke="#2ee6c5" stroke-width="1.5"><animate attributeName="r" values="5;8;5" dur="4.48s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="1;0.35;1" dur="4.48s" repeatCount="indefinite"/></circle>
+<circle cx="862" cy="244" r="5" fill="#0f151d" stroke="#2ee6c5" stroke-width="1.5"><animate attributeName="r" values="5;8;5" dur="4.85s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="1;0.35;1" dur="4.85s" repeatCount="indefinite"/></circle>
+<circle cx="656" cy="236" r="5" fill="#0f151d" stroke="#2ee6c5" stroke-width="1.5"><animate attributeName="r" values="5;8;5" dur="5.22s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="1;0.35;1" dur="5.22s" repeatCount="indefinite"/></circle>
+<circle cx="764" cy="258" r="5" fill="#0f151d" stroke="#2ee6c5" stroke-width="1.5"><animate attributeName="r" values="5;8;5" dur="5.59s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="1;0.35;1" dur="5.59s" repeatCount="indefinite"/></circle>
+<circle cx="46" cy="44" r="4.5" fill="#3fb950"><animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="62" y="49" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="16" fill="#7d8a99">firass-a@lab  ~  online</text>
+<text x="40" y="128" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="78" font-weight="800" fill="url(#g)" textLength="500" lengthAdjust="spacingAndGlyphs">Firas Cherfa</text>
+<text x="42" y="170" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" fill="#d0d7de">Systems &amp; Networks Engineer</text>
+<text x="42" y="202" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#9aa7b6">Software developer  ·  Blue Team in training</text>
+<text x="40" y="262" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="24" fill="#7d8a99">&gt;</text>
+<g clip-path="url(#c0)"><text x="70" y="262" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="24" fill="#2ee6c5" textLength="604.8" lengthAdjust="spacing">building practical, well-designed software</text></g>
+<g clip-path="url(#c1)"><text x="70" y="262" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="24" fill="#2ee6c5" textLength="532.8" lengthAdjust="spacing">shipping Flutter, Node &amp; Next.js apps</text></g>
+<g clip-path="url(#c2)"><text x="70" y="262" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="24" fill="#2ee6c5" textLength="489.6" lengthAdjust="spacing">learning SOC · DFIR · MITRE ATT&amp;CK</text></g>
+<g clip-path="url(#c3)"><text x="70" y="262" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="24" fill="#2ee6c5" textLength="446.4" lengthAdjust="spacing">reading logs, tracing incidents</text></g>
+<rect x="70" y="242" width="11" height="26" fill="#2ee6c5"><animate attributeName="x" dur="22.52s" repeatCount="indefinite" keyTimes="0.0000;0.0178;0.1203;0.2225;0.2691;0.2846;0.3750;0.4771;0.5182;0.5337;0.6168;0.7189;0.7567;0.7722;0.8479;0.9500;0.9845;1.0000" values="70;70;674.80;674.80;70;70;602.80;602.80;70;70;559.60;559.60;70;70;516.40;516.40;70;70" /><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></rect>
+<rect x="0" y="297" width="900" height="3" fill="url(#bl)"/>
+</svg>

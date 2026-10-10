@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 121 44" width="121" height="44" role="img" aria-labelledby="t d">
+<title id="t">Link: linkedin</title>
+<desc id="d">Button linking to linkedin</desc>
+<defs></defs>
+<rect x="0.5" y="0.5" width="121" height="43" rx="10" fill="#0f151d" stroke="#2ee6c5" stroke-opacity="0.6"/><circle cx="22" cy="22" r="4" fill="#2ee6c5"><animate attributeName="opacity" values="1;0.3;1" dur="2.6s" repeatCount="indefinite"/></circle><text x="38" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="16" fill="#d0d7de">linkedin</text>
+</svg>
